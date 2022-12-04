@@ -1,0 +1,43 @@
+body {
+  background-color:black;
+}
+.card-el {
+  background-color: #14213d;
+}
+.card-title {
+  color:yellow;
+}
+.card-text {
+  color:aliceblue;
+}
+.news-title {
+  color:#fca311;
+}
+.banner {
+  background: url(https://cdn.theatlantic.com/thumbor/nvXm2647qpzjZo5D7s8mQvPKWEo=/0x0:4000x2250/1600x900/media/img/mt/2022/10/GettyImages_1238366977/original.jpg);
+  background-position:left;
+  background-repeat: no-repeat;
+  background-position-x: -300px;
+  background-position-y: 20px;
+  width: 100%;
+  height: 600px;
+}
+.navbar-nav {
+  color: white;
+}
+.banner-fadebottom {
+  height:7.4rem;
+  background-image: linear-gradient(
+      180deg,
+      transparent,
+      rgba(37,37,37,0.61),
+      #111
+  );
+  margin-bottom: 20px;
+}
+.banner {
+  margin-bottom: 20px;
+}
+.banner-title {
+  color:white;
+}
